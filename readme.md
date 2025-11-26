@@ -1,4 +1,4 @@
-# Provoquer un mode sombre par JavaScript
+y# Provoquer un mode sombre par JavaScript
 > JS exercise given at HEPL
 
 * * *
